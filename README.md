@@ -94,21 +94,4 @@ L'outil (`index.html`) est une page web autonome, sans installation ni serveur :
 4. Lancer un calcul (menu **Itératif**) pour relier les variables aux données et simuler leur évolution.
 5. Ouvrir **Modèle 3D** pour visualiser la coupe de paroi selon la composition choisie.
 
-## Structure des données (Excel)
-
-Le classeur importé structure le modèle en plusieurs feuilles :
-
-- **Variables** : liste des variables (id, nom, unité, tag, force, valeur, formule…).
-- **Liens** : liste des liens causaux (source, cible, polarité, force, délai).
-- **Données — \*** : tableaux de référence (ex. catalogue d'isolants), utilisés par les formules de type recherche.
-- **Fonctions** : formules reliant une variable à une colonne d'un tableau de données.
-- **Projet** : métadonnées du projet (nom, boucles favorites…).
-
-## Déploiement en ligne
-
-Pour rendre l'outil accessible via une URL publique (ex. GitHub Pages) :
-
-1. Placer `index.html` et le classeur de données à la racine d'un dépôt public.
-2. Activer GitHub Pages dans **Settings → Pages** (branche `main`, dossier `/root`).
-3. L'outil est alors accessible via `https://<utilisateur>.github.io/<dépôt>/`.
 
