@@ -112,10 +112,3 @@ Pour rendre l'outil accessible via une URL publique (ex. GitHub Pages) :
 2. Activer GitHub Pages dans **Settings → Pages** (branche `main`, dossier `/root`).
 3. L'outil est alors accessible via `https://<utilisateur>.github.io/<dépôt>/`.
 
-## Structure du dépôt
-
-```
-├── index.html   # CLD Studio (outil complet)
-├── *.xlsx       # Jeu(x) de données (variables, liens, tableaux de référence)
-└── README.md    # Ce document
-```
