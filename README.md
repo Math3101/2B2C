@@ -26,7 +26,7 @@ CLD Studio permet de construire des diagrammes de boucle causale (Causal Loop Di
 
 Sa spécificité par rapport aux outils de diagramme classiques (drawio, Miro, Kumu), qui restent qualitatifs, est de permettre de remplacer un lien fléché par un calcul ou une formule branchée sur un tableau de données, sans recourir au formalisme plus lourd des outils de dynamique des systèmes (Vensim, Stella). L'outil reste en développement (*work in progress*).
 
-L'outil est générique : aucune logique métier n'est codée en dur. Le jeu de données utilisé pour l'illustrer (construction bois, isolants) n'est qu'un exemple d'application parmi d'autres — l'outil peut modéliser n'importe quel système à effets de rétroaction (santé publique, énergie, agriculture, économie circulaire, logistique…).
+L'outil est générique : aucune logique métier n'est codée en dur. Le jeu de données utilisé pour l'illustrer (construction bois, isolants) n'est qu'un exemple d'application parmi d'autres, l'outil peut modéliser n'importe quel système à effets de rétroaction (santé publique, énergie, agriculture, économie circulaire, logistique…).
 
 ## Le fonctionnement du CLD
 
