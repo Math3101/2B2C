@@ -15,8 +15,6 @@ Application web autonome (un seul fichier HTML), exécutée entièrement dans le
 - [Dans quel cadre a-t-il été utilisé](#dans-quel-cadre-a-t-il-été-utilisé)
 - [Comment l'utiliser](#comment-lutiliser)
 - [Structure des données (Excel)](#structure-des-données-excel)
-- [Déploiement en ligne](#déploiement-en-ligne)
-- [Structure du dépôt](#structure-du-dépôt)
 
 ---
 
